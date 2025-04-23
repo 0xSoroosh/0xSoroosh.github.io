@@ -17,7 +17,8 @@ Senior Software Engineer with 10+ years of expertise in Python, Django, and Fast
 
 ### **Self-employed, Karaj** — Freelance developer and IT consultant  
 *May 2020 - Present*  
-Designed and implemented web applications for small to medium size businesses with a focus on the e-commerce market. Also providing businesses with IT consulting services, helping them to cut costs and grow their sales since the COVID-19 pandemic.
+- Designed and implemented web applications for small to medium size businesses with a focus on the e-commerce market.
+- Provided +15 businesses with IT consulting services, helping them to cut down costs and grow their sales since the COVID-19 pandemic.
 
 ### **Faceit.ir, Shiraz** — Back-end Developer  
 *Sep 2019 - May 2020*  
